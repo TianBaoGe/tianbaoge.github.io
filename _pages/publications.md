@@ -15,4 +15,4 @@ Jiayu Xu<sup>#</sup>, <b>Ailiang Lin</b><sup>#</sup> (equal contribution), Jinxi
 
 <b>[DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation](https://tianbaoge.github.io/publications/DS-TransUNet)</b> <br> 
 <b>Ailiang Lin</b>, Bingzhi Chen, Jiayu Xu, ZhengZhang, Guangming Lu, David Zhang.
-<i>IEEE Transactions on Instrumentation and Measj k krement</i>. <b>TIM 2022</b>. <b><span style="color:red">(over 300 citations)</span></b>
+<i>IEEE Transactions on Instrumentation and Measurement</i>. <b>TIM 2022</b>.
